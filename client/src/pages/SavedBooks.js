@@ -94,11 +94,7 @@ const SavedBooks = () => {
                   <p className="small">Authors: {book.authors}</p>
                   {book.link ? (
                     <Card.Text>
-                      <a
-                        href={book.link}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
+                      <a href={book.link} target="_blank" rel="noreferrer">
                         More Information on Google Books
                       </a>
                     </Card.Text>
