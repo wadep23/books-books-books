@@ -44,6 +44,6 @@ Github: wadep23
 
 Email: wadepfacer@gmail.com
 
-Deployed site: [books](https://sleepy-sands-63664.herokuapp.com/)
+Deployed site: [https://sleepy-sands-63664.herokuapp.com/](https://sleepy-sands-63664.herokuapp.com/)
 
 ![books-books-books-image](https://user-images.githubusercontent.com/79487809/130341496-117da7e1-33a3-4b96-ba8c-49786f4c8481.jpg)
